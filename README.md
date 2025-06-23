@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineet Jain</h1>
-<h3 align="center">FPGA | VLSI | AI Hardware Enthusiast | Synopsys | GSoC</h3>
+<h3 align="center"> Synopsys | GSOC | FPGA | VLSI | AI Hardware Enthusiast </h3>
 
 ---
 
