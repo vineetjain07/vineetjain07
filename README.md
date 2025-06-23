@@ -26,6 +26,7 @@
 - **Google Summer of Code** – Contributor (2020, 2021) with FOSSi Foundation  
   - RISC-V enhancements on WARP-V, Archiectural improvement in manycore interconnect, and AWS F1 FPGA deployments.
 
+- Mentored over ~250 Students at [VSD's MYTH workshop](https://www.vlsisystemdesign.com/riscv-based-myth/) for 6 iterations.
 ---
 
 ### 📜 Publications
